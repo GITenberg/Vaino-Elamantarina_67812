@@ -1,5 +1,8 @@
 _repo: Vaino-Elamantarina_67812
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mannerheim, Sophie
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Sophie_Mannerheim
     - https://fi.wikipedia.org/wiki/Sophie_Mannerheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67812#Vaino-Elamantarina
 gutenberg_issued: '2022-04-11'
 identifiers:
   gutenberg: '67812'
