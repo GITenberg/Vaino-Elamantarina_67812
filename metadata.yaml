@@ -1,0 +1,32 @@
+_repo: Vaino-Elamantarina_67812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mannerheim, Sophie
+    aliases:
+    - Mannerheim, Sophie, friherrinna
+    - Mannerheim, Eva Charlotta Lovisa Sofia
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '53262'
+    url: http://www.gutenberg.org/2009/agents/53262
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sophie_Mannerheim
+    - https://fi.wikipedia.org/wiki/Sophie_Mannerheim
+description: ''
+gutenberg_issued: '2022-04-11'
+identifiers:
+  gutenberg: '67812'
+language: fi
+pgterms:marc905: 20220408050318mannerheim
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Holger Schildtin Kust.Oy,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Väinö: Elämäntarina'
+url: http://www.gutenberg.org/ebooks/67812
